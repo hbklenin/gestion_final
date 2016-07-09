@@ -217,7 +217,7 @@
           <Color blue="66" green="33" red="0" type="rgb"/>
         </Property>
         <Property name="horizontalAlignment" type="int" value="0"/>
-        <Property name="text" type="java.lang.String" value="Nuevos Productos Agregar"/>
+        <Property name="text" type="java.lang.String" value="Productos Agregar"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="jButton3">

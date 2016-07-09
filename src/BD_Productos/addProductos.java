@@ -118,7 +118,7 @@ public class addProductos extends javax.swing.JDialog {
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 32)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(0, 51, 102));
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel2.setText("Nuevos Productos Agregar");
+        jLabel2.setText("Productos Agregar");
 
         jButton3.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jButton3.setForeground(new java.awt.Color(0, 153, 153));
