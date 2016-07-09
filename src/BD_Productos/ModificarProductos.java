@@ -98,7 +98,7 @@ public class ModificarProductos extends javax.swing.JDialog {
         jLabel8.setFont(new java.awt.Font("Constantia", 0, 36)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(255, 153, 0));
         jLabel8.setText("Modificar Productos");
-        jPanel1.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 10, -1, -1));
+        jPanel1.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 10, 350, -1));
 
         jPanel2.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
